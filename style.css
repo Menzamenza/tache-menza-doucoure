@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* ************************online appoinment***************************** */
+.derrier{
+    z-index: -100;
+}
+.pos1{
+    top:50%;
+    left: 20%;
+}
+.pos2{
+    top: 100%;
+    left: 20%;
+}
+
+/* ************************media queries************* */
+@media screen and (max-width:900px) {
+    .ground-menza{
+        position: relative;
+    }
+    .pos1{
+        top: 100%;
+        left: 50%;
+    }
+    .pos2{
+        top: 140%;
+        left: 50%;
+    }
+}
