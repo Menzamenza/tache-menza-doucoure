@@ -15,6 +15,25 @@
     top: 100%;
     left: 20%;
 }
+/* our activity */
+.title::after{
+    content: '';
+    position: absolute;
+    display: block;
+    width: 25%;
+    height: 3px;
+    left: 50px;
+    bottom: 120px;
+    background: orangered;
+}
+
+/* Learning Medcine */
+.medcine{
+    background-color: rgb(242, 195, 195);
+}
+.som{
+    left: 50%;
+}
 
 /* ************************media queries************* */
 @media screen and (max-width:900px) {
