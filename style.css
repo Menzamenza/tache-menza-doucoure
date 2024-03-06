@@ -64,4 +64,28 @@
     .marge{
         margin-top: 70%;
     }
+    /* medcine */
+    .momo{
+        padding: 20px;
+        right: 50%;
+        height: 700px;
+    }
+    .momo img{
+        width: 50%;
+    }
+    .som{
+        left: 40%;
+    }
+   .tota{
+    right: 100%;
+    top: -35%;
+   }
+    .tata{
+    top: -30%;
+    left: 30px;
+    }
+    /* footer */
+    footer{
+        text-align: center;
+    }
 }
