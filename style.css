@@ -31,8 +31,21 @@
 .medcine{
     background-color: rgb(242, 195, 195);
 }
+.mama{
+    padding: 200px 0;
+    height: 800px;
+}
 .som{
-    left: 50%;
+    left: 45%;
+    top: -5%;
+}
+.tata{
+    top: -39%;
+    left: 35px;
+}
+.tota{
+    top: -53%;
+    left: 30px;
 }
 
 /* ************************media queries************* */
